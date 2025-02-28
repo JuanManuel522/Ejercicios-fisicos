@@ -14,3 +14,8 @@ La natación es un deporte y actividad física que consiste en desplazarse en el
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza la actividad (Nadar) durante al menos 30 a 60 minutos.
 3. Termina con un estiramiento.
+
+## Consejos
+- Consumir antes de nadar fuentes ricas en azucares
+- Tener ropa comoda 
+- Manejar la respiracion 
