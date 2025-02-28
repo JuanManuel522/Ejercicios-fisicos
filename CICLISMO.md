@@ -9,3 +9,8 @@ El ciclismo puede realizarse en distintos entornos, como la carretera, las monta
 - Fortalece los músculos.
 - Aumenta la flexibilidad y la coordinación.
 - Desarrolla resistencia.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza la actividad (Montar cicla) durante al menos 60 a 120 minutos.
+3. Termina con un estiramiento.
