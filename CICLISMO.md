@@ -14,3 +14,9 @@ El ciclismo puede realizarse en distintos entornos, como la carretera, las monta
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza la actividad (Montar cicla) durante al menos 60 a 120 minutos.
 3. Termina con un estiramiento.
+
+# Consejos
+- Mantén una hidratación adecuada.
+- Consumir antes de montar fuentes ricas en azucares
+- Tener ropa comoda 
+- Revisar la bicicleta 
