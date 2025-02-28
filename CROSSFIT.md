@@ -9,3 +9,8 @@ Es un programa de entrenamiento físico que combina una variedad de disciplinas 
 - Pérdida de grasa y mejora de la composición corporal
 - Mejora de la movilidad y flexibilidad
 - Desarrollo de agilidad y velocidad
+
+## Instrucciones 
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza la actividad (Burpees, Kettlebell Swings, Sentadillas con peso, Lunges (Zancadas)) durante al menos 30 minutos.
+3. Termina con un estiramiento.
