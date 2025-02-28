@@ -14,3 +14,7 @@ El yoga se basa en la conexión entre el cuerpo, la mente y el espíritu, promov
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza la actividad (Tadasana, Perro mirando hacia abajo, Bhujangasana , Utkatasana) durante al menos 30   minutos.
 3. Termina con un enfriamiento y estiramientos.
+
+## Consejos
+- Mantén una hidratación adecuada.
+- Manten un relajamiento por toda la sesion de Yoga
