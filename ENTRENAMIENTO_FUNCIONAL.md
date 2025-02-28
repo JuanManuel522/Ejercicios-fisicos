@@ -7,3 +7,8 @@ El entrenamiento funcional es un tipo de ejercicio que se centra en movimientos 
 - Mejora la movilidad y flexibilidad
 - Aumenta la fuerza y la resistencia
 - Mejora el equilibrio y la estabilidad
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza la actividad (Plancha , Saltos pliométricos, Burpees, Escaladores ) durante al menos 30   minutos.
+3. Termina con un enfriamiento y estiramientos.
