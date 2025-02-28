@@ -14,3 +14,7 @@ Es un programa de entrenamiento físico que combina una variedad de disciplinas 
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza la actividad (Burpees, Kettlebell Swings, Sentadillas con peso, Lunges (Zancadas)) durante al menos 30 minutos.
 3. Termina con un estiramiento.
+
+## Consejos
+- Mantenerse bien hidratado.
+- Tener ropa comoda 
