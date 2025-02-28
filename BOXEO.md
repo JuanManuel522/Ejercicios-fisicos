@@ -14,3 +14,7 @@ El boxeo es un deporte que involucra dos personas que se enfrentan en un combate
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza la actividad ( Golpes al saco,  Sombra, Saltos con cuerda) durante al menos 30 a 60 minutos.
 3. Termina con un estiramiento.
+
+## Consejos
+- Mantenerse bien hidratado.
+- Tener ropa comoda 
